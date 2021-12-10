@@ -1,4 +1,4 @@
-#Projeto realizado na materia de linguagem de programação estruturada (LPE)
+Projeto realizado na materia de linguagem de programação estruturada (LPE)
 
 Foi escolhido pelo grupo a cifra de cesar
 
